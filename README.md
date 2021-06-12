@@ -1,24 +1,16 @@
-# Foobar
+# JSON-SERVER
 
-Foobar is a Python library for dealing with word pluralization.
+it is a simple server REST, based json-server.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use git clone or download.
 
-```bash
-pip install foobar
-```
+required package npm.
 
 ## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+npm start
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
